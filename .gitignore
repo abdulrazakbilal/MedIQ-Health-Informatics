@@ -1,0 +1,16 @@
+# Virtual Environment
+venv/
+env/
+.env
+
+# Python Bytecode (Junk files)
+__pycache__/
+*.pyc
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Optional: Ignore the raw images if you don't want them on GitHub
+# (Uncomment the line below if you only want to share code, not data)
+# data/raw_images/
