@@ -30,6 +30,9 @@ In real-world hospital settings, poor-quality X-rays (low contrast, motion blur,
 5.  **I**nterpret: Generated actionable insights for Radiology Technicians.
 
 ## 📸 Screenshots
+
+<img width="1920" height="1020" alt="Screenshot 2026-02-08 173201" src="https://github.com/user-attachments/assets/6a7648b1-08be-45d8-946d-fa7993173d16" />
+
 <img width="1920" height="1020" alt="Screenshot 2026-02-08 173143" src="https://github.com/user-attachments/assets/75a28d89-d9f8-4048-9d81-52712d0d0fd2" />
 
 
