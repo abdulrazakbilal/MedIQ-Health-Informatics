@@ -38,3 +38,5 @@ In real-world hospital settings, poor-quality X-rays (low contrast, motion blur,
 
 ## 👨‍💻 Author
 **Abdul Razak Bilal**
+[LinkedIn](https://www.linkedin.com/in/abdul-razak-bilal/)
+
